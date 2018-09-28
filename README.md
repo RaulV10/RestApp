@@ -7,13 +7,13 @@ Ejemplo de calculadora básica usando Express
 ## Demo
 
 Suma (GET):
-![Alt Text](get.png)
+![Alt Text](/get.png)
 
 Multiplicación (POST):
-![Alt Text](post.png)
+![Alt Text](/post.png)
 
 División (PUT):
-![Alt Text](put.png)
+![Alt Text](/put.png)
 
 Resta (DELETE):
-![Alt Text](delete.png)
+![Alt Text](/delete.png)
